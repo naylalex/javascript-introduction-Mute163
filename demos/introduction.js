@@ -1,7 +1,7 @@
 /* JavaScript, similar to C*/
 console.log('Math');
 i = 3;
-i = i * 3 + 3 + (i /5);
+i = i * 3 + 3 + (i /5); 
 console.log(i) 
 
 console.log('while');
